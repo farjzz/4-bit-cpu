@@ -15,7 +15,7 @@ The architecture models how real microprocessors fetch, decode, and execute inst
 
 - 4-bit program counter (PC) and accumulator (ACC)  
 - 16×8 ROM for instruction memory  
-- 16×4 RAM** for data memory  
+- 16×4 RAM for data memory  
 - Instruction register (IR) with opcode + operand splitter  
 - 4-to-16 decoder for instruction control logic  
 - Memory data register (MDR) for stable memory reads  
